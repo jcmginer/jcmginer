@@ -14,7 +14,7 @@
     </a>
 </p>
 
-<img align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen" alt="juan-carlos-manzanera-giner" />
+<img align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/" alt="juan-carlos-manzanera-giner" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
