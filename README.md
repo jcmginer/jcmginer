@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **different web development programming languages.**
 
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" width="350" height="250" />
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" width="320" height="220" />
 
 - 📫 How to reach me **jcmginer@gmail.com**
 
