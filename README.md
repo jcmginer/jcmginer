@@ -7,6 +7,8 @@
 
 - ⚡ Hobbies: **Motor world 🏁, Gamming 🎮 and Cats 🐈**
 
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" width="100" height="100"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/juancarlosmanzaneraginer" target="blank">
@@ -14,7 +16,6 @@
     </a>
 </p>
 
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" />
 
 
 <h3 align="left">Languages and Tools:</h3>
