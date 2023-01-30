@@ -7,7 +7,7 @@
 
 - ⚡ Hobbies: **Motor world 🏁, Gamming 🎮 and Cats 🐈**
 
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" width="400" height="300" /><br>
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" width="400" height="300" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -78,6 +78,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
     </a>
 </p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcmginer&show_icons=true&theme=yeblu&locale=en" alt="jcmginer" /></p>
 
