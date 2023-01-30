@@ -14,7 +14,7 @@
     </a>
 </p>
 
-<img align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="juan-carlos-manzanera-giner" />
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" />
 
 
 <h3 align="left">Languages and Tools:</h3>
