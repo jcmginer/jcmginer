@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **different web development programming languages.**
 
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" width="400" height="300" />
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" width="350" height="250" />
 
 - 📫 How to reach me **jcmginer@gmail.com**
 
@@ -17,8 +17,6 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juancarlosmanzaneraginer" height="30" width="40" />
     </a>
 </p>
-
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
