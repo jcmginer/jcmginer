@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **different web development programming languages.**
 
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" width="350" height="250" />
+
 - 📫 How to reach me **jcmginer@gmail.com**
 
 - ⚡ Hobbies: **Motor world 🏁, Gamming 🎮 and Cats 🐈**
 
-<div style="border-radius: 25px"><img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rfi8atrdst96x98tse7b3uguxph5rihpyb1t4nz&rid=giphy.gif&ct=g" alt="juan-carlos-manzanera-giner" width="350" height="250" /></div>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
