@@ -1,0 +1,131 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
+
+      .bg { fill: #0d1117; }
+      .border { fill: none; stroke: #00ff88; stroke-width: 2; }
+      .corner { fill: #00ff88; }
+      .title {
+        font-family: 'VT323', 'Courier New', monospace;
+        font-size: 42px;
+        fill: #00ff88;
+        letter-spacing: 3px;
+      }
+      .subtitle {
+        font-family: 'VT323', 'Courier New', monospace;
+        font-size: 20px;
+        fill: #58A6FF;
+        letter-spacing: 2px;
+      }
+      .prompt {
+        font-family: 'VT323', 'Courier New', monospace;
+        font-size: 17px;
+        fill: #888;
+      }
+      .cursor {
+        fill: #00ff88;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink { 50% { opacity: 0; } }
+
+      .scanline {
+        fill: none;
+        stroke: #00ff88;
+        stroke-width: 0.3;
+        opacity: 0.05;
+      }
+
+      .glow {
+        font-family: 'VT323', 'Courier New', monospace;
+        font-size: 42px;
+        fill: none;
+        stroke: #00ff88;
+        stroke-width: 0.5;
+        opacity: 0.4;
+        letter-spacing: 3px;
+        filter: blur(3px);
+      }
+
+      .line1 { animation: slideIn 0.5s ease forwards; }
+      .line2 { animation: slideIn 0.5s 0.3s ease both; opacity: 0; }
+      .line3 { animation: slideIn 0.5s 0.6s ease both; opacity: 0; }
+      @keyframes slideIn {
+        from { opacity: 0; transform: translateX(-10px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+
+      .typing {
+        font-family: 'VT323', 'Courier New', monospace;
+        font-size: 17px;
+        fill: #00ff88;
+      }
+      .t1 { animation: cycle 12s infinite; }
+      .t2 { animation: cycle 12s 3s infinite; opacity: 0; }
+      .t3 { animation: cycle 12s 6s infinite; opacity: 0; }
+      .t4 { animation: cycle 12s 9s infinite; opacity: 0; }
+      @keyframes cycle {
+        0%   { opacity: 1; }
+        22%  { opacity: 1; }
+        25%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+    </style>
+
+    <!-- scanlines filter -->
+    <filter id="crt">
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend in="SourceGraphic" mode="multiply"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" class="bg" rx="6"/>
+
+  <!-- CRT scanlines -->
+  <line x1="0" y1="20" x2="800" y2="20" class="scanline"/>
+  <line x1="0" y1="40" x2="800" y2="40" class="scanline"/>
+  <line x1="0" y1="60" x2="800" y2="60" class="scanline"/>
+  <line x1="0" y1="80" x2="800" y2="80" class="scanline"/>
+  <line x1="0" y1="100" x2="800" y2="100" class="scanline"/>
+  <line x1="0" y1="120" x2="800" y2="120" class="scanline"/>
+  <line x1="0" y1="140" x2="800" y2="140" class="scanline"/>
+  <line x1="0" y1="160" x2="800" y2="160" class="scanline"/>
+  <line x1="0" y1="180" x2="800" y2="180" class="scanline"/>
+
+  <!-- Border -->
+  <rect x="10" y="10" width="780" height="180" class="border" rx="4"/>
+
+  <!-- Corner decorations -->
+  <rect x="10" y="10" width="12" height="3" class="corner"/>
+  <rect x="10" y="10" width="3" height="12" class="corner"/>
+  <rect x="778" y="10" width="12" height="3" class="corner"/>
+  <rect x="779" y="10" width="3" height="12" class="corner"/>
+  <rect x="10" y="177" width="12" height="3" class="corner"/>
+  <rect x="10" y="178" width="3" height="12" class="corner"/>
+  <rect x="778" y="177" width="12" height="3" class="corner"/>
+  <rect x="779" y="177" width="3" height="12" class="corner"/>
+
+  <!-- Terminal header bar -->
+  <rect x="10" y="10" width="780" height="26" fill="#00ff88" opacity="0.08" rx="2"/>
+  <text x="30" y="27" class="prompt">jcmginer@iautopymes:~$</text>
+  <circle cx="755" cy="23" r="5" fill="#ff5f57"/>
+  <circle cx="772" cy="23" r="5" fill="#febc2e"/>
+  <circle cx="789" cy="23" r="5" fill="#28c840"/>
+
+  <!-- Main title -->
+  <text x="400" y="88" text-anchor="middle" class="glow">JUAN CARLOS MANZANERA</text>
+  <text x="400" y="88" text-anchor="middle" class="title line1">JUAN CARLOS MANZANERA</text>
+
+  <!-- Subtitle -->
+  <text x="400" y="118" text-anchor="middle" class="subtitle line2">CO-FOUNDER &amp; TECH LEAD @ iAutoPYMES</text>
+
+  <!-- Animated typing line -->
+  <text x="30" y="158" class="prompt">&gt;&gt; </text>
+  <text x="68" y="158" class="typing t1">Building automations that run while I sleep...</text>
+  <text x="68" y="158" class="typing t2">n8n + Docker + LLMs = production-ready workflows</text>
+  <text x="68" y="158" class="typing t3">Self-hosted infra. Real clients. Zero buzzwords.</text>
+  <text x="68" y="158" class="typing t4">Turning manual processes into automated systems.</text>
+  <rect x="595" y="144" width="10" height="18" class="cursor"/>
+</svg>
