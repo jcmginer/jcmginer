@@ -109,14 +109,14 @@
 
   <!-- Terminal header bar -->
   <rect x="10" y="10" width="780" height="26" fill="#00ff88" opacity="0.08" rx="2"/>
-  <text x="30" y="27" class="prompt">jcmginer@iautopymes:~$</text>
-  <circle cx="755" cy="23" r="5" fill="#ff5f57"/>
-  <circle cx="772" cy="23" r="5" fill="#febc2e"/>
-  <circle cx="789" cy="23" r="5" fill="#28c840"/>
+  <circle cx="30" cy="23" r="5" fill="#ff5f57"/>
+  <circle cx="47" cy="23" r="5" fill="#febc2e"/>
+  <circle cx="64" cy="23" r="5" fill="#28c840"/>
+  <text x="90" y="27" class="prompt">jcmginer@iautopymes:~$</text>
 
   <!-- Main title -->
-  <text x="400" y="88" text-anchor="middle" class="glow">JUAN CARLOS MANZANERA GINER</text>
-  <text x="400" y="88" text-anchor="middle" class="title line1">JUAN CARLOS MANZANERA GINER</text>
+  <text x="400" y="88" text-anchor="middle" class="glow">JUAN CARLOS MANZANERA</text>
+  <text x="400" y="88" text-anchor="middle" class="title line1">JUAN CARLOS MANZANERA</text>
 
   <!-- Subtitle -->
   <text x="400" y="118" text-anchor="middle" class="subtitle line2">CO-FOUNDER &amp; TECH LEAD @ iAutoPYMES</text>
