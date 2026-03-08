@@ -75,7 +75,7 @@ Mi trabajo está en la intersección entre **negocio y tecnología** — entende
 ### 🌱 Explorando ahora
 
 - Agentes IA **multi-step** aplicados a procesos reales de empresa
-- **Extracción documental** con Docling + LLMs (escrituras, facturas, contratos)
+- **Extracción documental** + LLMs (escrituras, facturas, contratos)
 - **Voice AI** aplicado a atención al cliente y operaciones
 - **Claude Code** y flujos de desarrollo asistido por IA
 
