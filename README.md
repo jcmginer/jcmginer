@@ -16,14 +16,14 @@
 
 ### 👾 Sobre mí
 
-Soy el co-fundador técnico de **iAutoPYMES**, una consultora de automatización e IA para empresas españolas. Me encargo de todo lo técnico: arquitectura, integraciones, infraestructura y ejecución.
+Soy el co-fundador de **iAutoPYMES**, una consultora de automatización e IA para empresas y autónomos. Me encargo de todo lo técnico: arquitectura, integraciones, infraestructura y ejecución.
 
 Mi trabajo está en la intersección entre **negocio y tecnología** — entender qué necesita una empresa y convertirlo en un sistema que funcione solo. Sin humo, sin buzzwords. Cosas que funcionan en producción.
 
 - ⚙️ Automatización de procesos con **n8n** self-hosted
 - 🧠 Integración de **LLMs y agentes IA** en flujos empresariales reales
-- 🐳 Infraestructura propia en **Docker Swarm** con Traefik y Portainer
-- 💬 Integraciones **WhatsApp Business** via Evolution API
+- 🐳 Infraestructura propia en servidores dedicados
+- 💬 Integraciones con multiples plataformas
 - 📊 Conectores con **Microsoft 365, Airtable, APIs REST** y más
 
 ---
