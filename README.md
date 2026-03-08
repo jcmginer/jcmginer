@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ff88?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/juancarlosmanzaneraginer)
-[![Email](https://img.shields.io/badge/Email-%2300ff88?style=for-the-badge&logo=gmail&logoColor=black)](mailto:jcmginer@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%2300ff88?style=for-the-badge&logo=gmail&logoColor=black)](mailto:jcarlosmginer@iautopymes.com)
 ![Visitors](https://komarev.com/ghpvc/?username=jcmginer&style=for-the-badge&color=00ff88&label=VISITORS&labelColor=0d1117)
 
 </div>
