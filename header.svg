@@ -115,8 +115,8 @@
   <text x="90" y="27" class="prompt">jcmginer@iautopymes:~$</text>
 
   <!-- Main title -->
-  <text x="400" y="88" text-anchor="middle" class="glow">JUAN CARLOS MANZANERA</text>
-  <text x="400" y="88" text-anchor="middle" class="title line1">JUAN CARLOS MANZANERA</text>
+  <text x="400" y="88" text-anchor="middle" class="glow">JUAN CARLOS MANZANERA GINER</text>
+  <text x="400" y="88" text-anchor="middle" class="title line1">JUAN CARLOS MANZANERA GINER</text>
 
   <!-- Subtitle -->
   <text x="400" y="118" text-anchor="middle" class="subtitle line2">CO-FOUNDER &amp; TECH LEAD @ iAutoPYMES</text>
