@@ -16,7 +16,7 @@
 
 ### 👾 Sobre mí
 
-Soy el fundador de **iAutoPYMES**, una consultora de automatización e IA para empresas y autónomos. Me encargo de todo lo técnico: arquitectura, integraciones, infraestructura y ejecución.
+Soy el fundador de **IAutoPYMES**, una consultora de automatización e IA para empresas y autónomos. Me encargo de todo lo técnico: arquitectura, integraciones, infraestructura y ejecución.
 
 Mi trabajo está en la intersección entre **negocio y tecnología** — entender qué necesita una empresa y convertirlo en un sistema que funcione solo. Sin humo, sin buzzwords. Cosas que funcionan en producción.
 
